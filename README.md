@@ -1,0 +1,2 @@
+# Beyond-the-Paycheck-An-Empirical-Assessment-of-Worker-Economic-Well-being-in-a-Changing-Labor-Market
+This repository contains the computational model, research paper, data, and final conclusions I used in my submission to the National Science Research Institute's One week Research Hackathon. In this study, I investigated factors that contribute to economic well-being among workers &amp; how employment conditions influence financial resilience.
