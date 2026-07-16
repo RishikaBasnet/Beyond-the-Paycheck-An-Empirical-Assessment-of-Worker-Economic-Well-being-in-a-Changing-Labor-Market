@@ -1,4 +1,4 @@
-### **Variable Dictionary:**
+## **Variable Dictionary:**
 
 **E4_a: Do you have health insurance from your employer?**
 → Old Scale: Yes or No
@@ -36,15 +36,19 @@
 → Old Scale: Yes or No
 → New Scale: No=100, Yes=0
 
-### **Dimension definitions:**
+## **Dimension definitions:**
 
 Benefits access → calculated by average of scores from E4_a and K21_b
+
 Income Stability → calculated from i9 
+
 Flexibility → calculated from average of scores from D30, D28_a, & D28_b
+
 Financial Resilience → calculated from average of EF1, EF2, & B2
+
 Income Adequacy → calculated from I12 data
 
-*FINAL ECONOMIC SECURITY INDEX* →
+### *FINAL ECONOMIC SECURITY INDEX* →
 (0.138)(Avg. Benefits Access) + (0.112)(Income stability) + (0.138)Avg. Flexibility + (0.112)(Avg.  Financial Resilience) +(0.50)(Income Adequacy)
 
 
