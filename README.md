@@ -28,6 +28,8 @@ My next step, collect data on these dimsnesions using the Federal Reserve SHED 2
 
 This methodology allowed me to create various diagrams to show the effects of each dimension on overall economic well-being, as shown in the Outputs repository.
 
+Interested in the actual research paper itself? Check out https://docs.google.com/document/d/1llHN0K_zl28ckboRizK18AGjJD99OYNUpQP4RQNKBoM/edit?usp=sharing
+
 ## Repository Structure
 
 data/
@@ -45,9 +47,6 @@ output/
   - economic_security_index_histograms.png
   - economic_security_index_weights.png
   - flexibility_vs_economic_security_index.png
-
-paper/
-  - Beyond the Paycheck: An Empirical Assessment of Worker Economic Well-being in a Changing Labor Market.pdf
 
 ## How to Run
 
